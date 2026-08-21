@@ -14,7 +14,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e me tornar um **Full S
 * Experiência profissional com **Dart & Flutter**
 * Atualmente aprofundando conhecimentos em **Laravel & PHP**
 * Estudando **Docker, bancos de dados e Vue**
-* Interessado em **backend, arquitetura de software e desenvolvimento de produtos**
+* Interessado em **backend, arquitetura de software e desenvolvimento**
 * Objetivo profissional: **me tornar Full Stack Developer**
 
 ---
